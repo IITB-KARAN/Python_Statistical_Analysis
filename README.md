@@ -60,11 +60,10 @@ This repository contains a collection of *beginner-friendly projects in data ana
 
 ---
 
-## Tools & Technologies Used
+## Tools  Used
 - *Programming Language:* Python  
 - *Data Manipulation:* NumPy, Pandas  
-- *Statistical Analysis:* SciPy, Statsmodels  
-- *Data Visualization:* Matplotlib, Seaborn  
+- *Data Visualization:* Matplotlib,  
 - *Machine Learning:* Scikit-learn (for clustering)  
 - *Development Environment:* Jupyter Notebook  
 
