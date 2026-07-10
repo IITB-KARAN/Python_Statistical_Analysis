@@ -1,81 +1,121 @@
-# Beginner Data Analysis Projects 
+# Python Statistical Analysis
 
-Welcome to my *Beginner Data Analysis Projects* repository! 
+A collection of statistical analysis and machine learning projects implemented in **Python** to explore core concepts in statistical inference, hypothesis testing, probability, and unsupervised learning.
 
-This repository contains a collection of *beginner-friendly projects in data analysis* implemented in *Python using Jupyter Notebooks. Each project focuses on building a strong foundation in **statistics, data visualization, and basic machine learning techniques. These projects are perfect for those starting their journey in **data science* and wanting to practice hands-on with real datasets.  
-
----
-
-## Projects Overview
-
-### 1. Titanic Survival Analysis (Chi-Square Test)
-- *Objective:* Investigate whether survival on the Titanic was independent of certain factors like *gender* and *passenger class*.
-- *Tasks performed:*
-  - Data cleaning and preprocessing using *Pandas*.
-  - Conducted *Chi-Square tests* to check the independence between categorical variables.
-  - Visualized survival rates across different groups using *Matplotlib*.
-- *Skills gained:*
-  - Hypothesis testing
-  - Working with categorical data
-  - Data visualization for categorical variables
+Using real-world datasets and simulation techniques, this repository demonstrates how statistical methods can be applied to analyze data, validate hypotheses, uncover hidden patterns, and support data-driven decision-making.
 
 ---
 
-### 2. Customer Segmentation (K-Means Clustering)
-- *Objective:* Segment customers of a mall based on *annual income* and *spending score*.
-- *Tasks performed:*
-  - Exploratory Data Analysis (EDA) with *Seaborn* and *Matplotlib*.
-  - Applied *K-Means clustering* to identify distinct customer groups.
-  - Visualized clusters along with their centroids for better interpretation.
-- *Skills gained:*
-  - Unsupervised machine learning
-  - Cluster analysis
-  - Visualizing and interpreting clustering results
+# Project Overview
+
+This repository contains four independent statistical analysis projects that progressively cover fundamental topics in statistics and machine learning.
+
+The projects combine theoretical concepts with practical implementation using Python libraries such as **NumPy**, **Pandas**, **SciPy**, and **Matplotlib**, emphasizing both statistical reasoning and data visualization.
 
 ---
 
-### 3. Height-Weight Dataset Analysis
-- *Objective:* Explore and analyze relationships in a *height-weight dataset*.
-- *Tasks performed:*
-  - Calculated *descriptive statistics*: mean, median, standard deviation.
-  - Performed *Z-tests and T-tests* to compare sample populations.
-  - Interpreted statistical results to draw insights.
-- *Skills gained:*
-  - Hypothesis testing
-  - Understanding distributions and population sampling
-  - Statistical inference
+# Project Highlights
+
+- Performed **Chi-Square Tests of Independence** to evaluate relationships between categorical variables.
+- Implemented **K-Means Clustering** to identify customer segments using unsupervised machine learning.
+- Applied **One-Sample T-Tests** to compare sample statistics with population parameters.
+- Simulated the **Central Limit Theorem (CLT)** to demonstrate how sampling distributions converge toward normality.
+- Visualized statistical distributions, hypothesis testing results, and machine learning outputs.
 
 ---
 
-### 4. Central Limit Theorem Simulation
-- *Objective:* Demonstrate the *Central Limit Theorem (CLT)* through simulation.
-- *Tasks performed:*
-  - Generated random samples and calculated their means.
-  - Compared *empirical distributions* with *theoretical expectations*.
-  - Visualized how sample size affects the approximation to a normal distribution.
-- *Skills gained:*
-  - Simulation in Python
-  - Statistical concepts of sampling and distributions
-  - Data visualization to illustrate theoretical concepts
+# Project Gallery
+
+
+
+
+## Chi-Square Test
+
+![Chi-Square Test](1_Chi_Square_Test_Titanic/Images/survival_vs_gender.png)
 
 ---
 
-## Tools  Used
-- *Programming Language:* Python  
-- *Data Manipulation:* NumPy, Pandas  
-- *Data Visualization:* Matplotlib,  
-- *Machine Learning:* Scikit-learn (for clustering)  
-- *Development Environment:* Jupyter Notebook  
+## K-Means Customer Segmentation
+
+![K-Means Clustering](2_MallCustomers_KMeans/Images/customer_clusters.png)
+
+---
+## One-Sample T-Test
+
+
+![Hypothesis Testing](3_HeightWeight_Ztest_Ttest/Images/t_test_results.png)
+
+---
+## Central Limit Theorem Simulation
+
+![CLT Simulation](4_Central_Limit_Theorem_Simulation/Images/clt_simulation.png)
+
+
+# Repository Structure
+
+| Project | Description |
+|----------|-------------|
+| [`Central Limit Theorem Simulation`](./4_Central_Limit_Theorem_Simulation) | Demonstrates sampling distributions and validates the Central Limit Theorem through simulation. |
+|  [`Hypothesis Testing`](./3_HeightWeight_Ztest_Ttest) | Performs One-Sample T-Tests using real-world height and weight data. |
+| [`Chi-Square Test`](./1_Chi_Square_Test_Titanic) | Evaluates relationships between categorical variables using the Titanic dataset. |
+|  [`K-Means Clustering`](./2_MallCustomers_KMeans) | Segments mall customers based on income and spending behavior using unsupervised learning. |
+
+Each project contains its own README explaining the methodology, implementation, statistical concepts, results, and conclusions.
 
 ---
 
-## What You Can Learn From This Repository
-- Fundamentals of *data cleaning and preprocessing*.
-- Core *statistical tests and hypothesis testing*.
-- Creating *meaningful visualizations* to communicate insights.
-- Implementing *basic machine learning algorithms* like K-Means clustering.
-- Gaining confidence to work with real-world datasets.
+# Skills Demonstrated
+
+### Python
+
+- Pandas
+- NumPy
+- Matplotlib
+- SciPy
+
+### Statistics
+
+- Central Limit Theorem
+- Descriptive Statistics
+- Hypothesis Testing
+- One-Sample T-Test
+- Chi-Square Test
+- Statistical Inference
+- Probability Distributions
+- Sampling Theory
+
+### Machine Learning
+
+- K-Means Clustering
+- Customer Segmentation
+- Unsupervised Learning
+
+### Data Analysis
+
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Simulation
+- Interpretation of Statistical Results
 
 ---
 
- This repository is a showcase of my journey in *data science and analytics*, reflecting my learning process and hands-on experimentation with Python.
+# Technologies Used
+
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python |
+| Data Analysis | Pandas |
+| Numerical Computing | NumPy |
+| Scientific Computing | SciPy |
+| Visualization | Matplotlib |
+| Development Environment | Jupyter Notebook |
+
+---
+
+# Conclusion
+
+This repository demonstrates the practical application of fundamental statistical and machine learning techniques using Python.
+
+Through simulation, hypothesis testing, categorical analysis, and clustering, the projects showcase how statistical methods can be used to understand data, validate assumptions, and extract meaningful insights.
+
+Together, these projects provide a strong foundation in statistical analysis and illustrate the role of Python as a versatile tool for data science and analytical problem-solving.
