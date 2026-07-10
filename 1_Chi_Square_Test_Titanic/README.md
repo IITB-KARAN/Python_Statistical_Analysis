@@ -149,13 +149,6 @@ Passengers traveling in higher classes experienced higher survival rates than th
 - P-value Interpretation
 - Contingency Tables
 
-### Data Analysis
-
-- Data Exploration
-- Categorical Data Analysis
-- Statistical Inference
-
----
 
 # Technologies Used
 

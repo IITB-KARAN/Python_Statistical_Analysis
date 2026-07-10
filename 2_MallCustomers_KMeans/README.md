@@ -133,7 +133,6 @@ These segments can support targeted marketing strategies and customer relationsh
 ### Data Analysis
 
 - Data Visualization
-- Feature Selection
 - Customer Segmentation
 
 ---

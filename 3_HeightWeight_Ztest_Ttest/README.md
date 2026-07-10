@@ -149,17 +149,14 @@ This indicates that the sampled observations do not differ significantly from th
 
 ### Statistics
 
-- Descriptive Statistics
-- One-SSample T-Test
+- One-Sample T-Test
 - Hypothesis Testing
 - Random Sampling
-- Statistical Inference
 
 ### Data Analysis
 
 - Data Visualization
 - Distribution Analysis
-- Interpretation of Statistical Results
 
 ---
 

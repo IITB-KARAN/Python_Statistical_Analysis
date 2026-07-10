@@ -76,11 +76,9 @@ Each project contains its own README explaining the methodology, implementation,
 ### Statistics
 
 - Central Limit Theorem
-- Descriptive Statistics
 - Hypothesis Testing
 - One-Sample T-Test
 - Chi-Square Test
-- Statistical Inference
 - Probability Distributions
 - Sampling Theory
 
@@ -95,7 +93,6 @@ Each project contains its own README explaining the methodology, implementation,
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Simulation
-- Interpretation of Statistical Results
 
 ---
 

@@ -167,7 +167,6 @@ Example Output
 
 - Central Limit Theorem
 - Sampling Distribution
-- Descriptive Statistics
 - Distribution Analysis
 - Random Sampling
 
